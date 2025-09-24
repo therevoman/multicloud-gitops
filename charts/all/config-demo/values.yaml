@@ -7,7 +7,7 @@ configdemosecret:
   key: secret/data/global/config-demo
 
 global:
-  hubClusterDomain: hub.example.com
+  hubClusterDomain: cluster-9l6sz.9l6sz.sandbox5174.opentlc.com
   localClusterDomain: region-one.example.com
 
 clusterGroup:
