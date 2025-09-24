@@ -32,7 +32,7 @@ clusterGroup:
       name: hello-world
       namespace: hello-world
       project: hello-world
-      path: charts/all/hello-world
+      path: charts/region/hello-world
   imperative:
     # NOTE: We *must* use lists and not hashes. As hashes lose ordering once parsed by helm
     # The default schedule is every 10 minutes: imperative.schedule
