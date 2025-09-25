@@ -1,4 +1,4 @@
 ---
 global:
-  hubClusterDomain: hub.example.com
+  hubClusterDomain: cluster-9l6sz.9l6sz.sandbox5174.opentlc.com
   localCluster: local.example.com
