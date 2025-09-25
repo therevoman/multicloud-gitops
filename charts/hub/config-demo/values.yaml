@@ -3,6 +3,9 @@ secretStore:
   name: vault-backend
   kind: ClusterSecretStore
 
+configdemomysecret:
+  key: secret/data/global/config-demo
+
 configdemosecret:
   key: secret/data/global/config-demo
 
