@@ -3,7 +3,7 @@ secretStore:
   name: vault-backend
   kind: ClusterSecretStore
 
-configdemosecret:
+configdemomysecret:
   key: secret/data/global/config-demo
 
 global:
@@ -11,4 +11,4 @@ global:
   localClusterDomain: region-one.example.com
 
 clusterGroup:
-  isHubCluster: true
+  isHubCluster: false
